@@ -1,0 +1,2085 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:cis="http://zlab.bu.edu/schema/cisml" xmlns:fimo="http://noble.gs.washington.edu/schema/cisml" xmlns:mem="http://noble.gs.washington.edu/meme">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<title>FIMO Results</title>
+<style type="text/css">
+td.left {text-align: left;}
+td.right {text-align: right; padding-right: 1cm;}
+</style>
+</head>
+<body color="#000000">
+<a name="top_buttons"></a>
+<hr>
+<table summary="buttons" align="left" cellspacing="0">
+<tr>
+<td bgcolor="#00FFFF"><a href="#database_and_motifs"><b>Database and Motifs</b></a></td>
+<td bgcolor="#DDFFDD"><a href="#sec_i"><b>High-scoring Motif Occurences</b></a></td>
+<td bgcolor="#DDDDFF"><a href="#debugging_information"><b>Debugging Information</b></a></td>
+<td bgcolor="#FFDD00"><a href="fimo.tsv""><b>Results in TSV Format</b></a></td>
+<td bgcolor="#FFDDFF"><a href="fimo.gff""><b>Results in GFF3 Format</b></a></td>
+</tr>
+</table>
+<br/>
+<br/>
+<hr/>
+<center><big><b>FIMO - Motif search tool</b></big></center>
+<hr>
+<p>
+FIMO version 5.3.0, (Release date: Wed Nov 25 19:19:29 2020 -0800)
+</p>
+<p>
+For further information on how to interpret these results please access <a href="http://meme-suite.org/doc/fimo-output-format.html">http://meme-suite.org/doc/fimo-output-format.html</a>.<br>
+To get a copy of the FIMO software please access <a href="http://meme-suite.org">http://meme-suite.org</a>
+
+</p>
+<p>If you use FIMO in your research, please cite the following paper:<br>
+Charles E. Grant, Timothy L. Bailey, and William Stafford Noble,
+"FIMO: Scanning for occurrences of a given motif",
+<i>Bioinformatics</i>, <b>27</b>(7):1017-1018, 2011.
+<a href="http://bioinformatics.oxfordjournals.org/content/27/7/1017">[full text]</a></p>
+<hr>
+<center><big><b><a name="database_and_motifs">DATABASE AND MOTIFS</a></b></big></center>
+<hr>
+<div style="padding-left: 0.75in; line-height: 1em; font-family: monospace;">
+<p>
+  DATABASE Pols_mt.fna
+  <br />
+  Database contains 1 sequences, 73985 residues
+</p>
+<p>
+  MOTIFS frameshifts.meme/meme.txt (DNA)
+  <table>
+    <thead>
+      <tr>
+        <th style="border-bottom: 1px dashed;">MOTIF</th>
+        <th style="border-bottom: 1px dashed; padding-left: 1em;">WIDTH</th>
+        <th style="border-bottom: 1px dashed; padding-left: 1em;text-align:left;" >
+         BEST POSSIBLE MATCH
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:right;">YTAGGTWTAWHAK</td>
+        <td style="text-align:right;padding-left: 1em;">13</td>
+        <td style="text-align:left;padding-left: 1em;">TTAGGTATAATAT</td>
+       </tr>
+    </tbody>
+  </table>
+</p>
+<p>
+Random model letter frequencies (--nrdb--):
+<br/>
+
+A 0.275 C 0.225 G 0.225 T 0.275 </p>
+</div>
+<hr>
+<center><big><b><a name="sec_i">SECTION I: HIGH-SCORING MOTIF OCCURENCES</a></b></big></center>
+<hr>
+<ul>
+<li>
+There were 173 motif occurences with a p-value less than 0.0001.
+
+The full set of motif occurences can be seen in the
+TSV (tab-delimited values) output file
+<a href="fimo.tsv">fimo.tsv</a>, 
+the GFF3 file 
+<a href="fimo.gff">fimo.gff</a> 
+which may be suitable for uploading to the 
+<a href="http://genome.ucsc.edu/cgi-bin/hgTables">UCSC Genome Table Browser</a>
+(assuming the FASTA input sequences included genomic coordinates in UCSC or Galaxy format),
+or the XML file 
+<a href="fimo.xml">fimo.xml</a>.
+</li>
+<li>
+The <i>p</i>-value of a motif occurrence is defined as the
+probability of a random sequence of the same length as the motif
+matching that position of the sequence with as good or better a score.
+</li>
+<li>
+The score for the match of a position in a sequence to a motif
+is computed by summing the appropriate entries from each column of
+the position-dependent scoring matrix that represents the motif.
+</li>
+<li>
+The q-value of a motif occurrence is defined as the
+false discovery rate if the occurrence is accepted as significant.
+</li>
+<li>The table is sorted by increasing <i>p</i>-value.</li>
+</ul>
+<table border="1">
+<thead>
+<tr>
+<th>Motif ID</th>
+<th>Alt ID</th>
+<th>Sequence Name</th>
+<th>Strand</th>
+<th>Start</th>
+<th>End</th>
+<th>p-value</th>
+<th>q-value</th>
+<th>Matched Sequence</th>
+</tr>
+</thead>
+<tbody>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">51171</td>
+      <td style="text-align:left;">51183</td>
+      <td style="text-align:left;">1.13e-07</td>
+      <td style="text-align:left;">0.00595</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">13595</td>
+      <td style="text-align:left;">13607</td>
+      <td style="text-align:left;">5.51e-07</td>
+      <td style="text-align:left;">0.0097</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATCAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">14294</td>
+      <td style="text-align:left;">14306</td>
+      <td style="text-align:left;">5.51e-07</td>
+      <td style="text-align:left;">0.0097</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">14361</td>
+      <td style="text-align:left;">14373</td>
+      <td style="text-align:left;">7.59e-07</td>
+      <td style="text-align:left;">0.01</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">22056</td>
+      <td style="text-align:left;">22068</td>
+      <td style="text-align:left;">1.2e-06</td>
+      <td style="text-align:left;">0.0115</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">52431</td>
+      <td style="text-align:left;">52443</td>
+      <td style="text-align:left;">1.52e-06</td>
+      <td style="text-align:left;">0.0115</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">67478</td>
+      <td style="text-align:left;">67490</td>
+      <td style="text-align:left;">1.52e-06</td>
+      <td style="text-align:left;">0.0115</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">62422</td>
+      <td style="text-align:left;">62434</td>
+      <td style="text-align:left;">1.82e-06</td>
+      <td style="text-align:left;">0.012</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">70040</td>
+      <td style="text-align:left;">70052</td>
+      <td style="text-align:left;">2.11e-06</td>
+      <td style="text-align:left;">0.0124</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATACTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">72796</td>
+      <td style="text-align:left;">72808</td>
+      <td style="text-align:left;">2.59e-06</td>
+      <td style="text-align:left;">0.0137</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATTATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">43028</td>
+      <td style="text-align:left;">43040</td>
+      <td style="text-align:left;">3.2e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATAATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">69076</td>
+      <td style="text-align:left;">69088</td>
+      <td style="text-align:left;">3.33e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATAATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">19432</td>
+      <td style="text-align:left;">19444</td>
+      <td style="text-align:left;">4.57e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">24799</td>
+      <td style="text-align:left;">24811</td>
+      <td style="text-align:left;">5.4e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">3588</td>
+      <td style="text-align:left;">3600</td>
+      <td style="text-align:left;">5.5e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTAAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">16964</td>
+      <td style="text-align:left;">16976</td>
+      <td style="text-align:left;">5.5e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTAAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">17299</td>
+      <td style="text-align:left;">17311</td>
+      <td style="text-align:left;">5.5e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTAAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">72596</td>
+      <td style="text-align:left;">72608</td>
+      <td style="text-align:left;">5.64e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">GTAGGCATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">19672</td>
+      <td style="text-align:left;">19684</td>
+      <td style="text-align:left;">6.26e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">73537</td>
+      <td style="text-align:left;">73549</td>
+      <td style="text-align:left;">6.26e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">13209</td>
+      <td style="text-align:left;">13221</td>
+      <td style="text-align:left;">6.65e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATTAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">3186</td>
+      <td style="text-align:left;">3198</td>
+      <td style="text-align:left;">7.21e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGCATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6509</td>
+      <td style="text-align:left;">6521</td>
+      <td style="text-align:left;">7.21e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGCATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">22735</td>
+      <td style="text-align:left;">22747</td>
+      <td style="text-align:left;">7.28e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">40135</td>
+      <td style="text-align:left;">40147</td>
+      <td style="text-align:left;">7.28e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">43163</td>
+      <td style="text-align:left;">43175</td>
+      <td style="text-align:left;">7.55e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATTAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">14172</td>
+      <td style="text-align:left;">14184</td>
+      <td style="text-align:left;">7.69e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">GTAGGCATAACAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">43571</td>
+      <td style="text-align:left;">43583</td>
+      <td style="text-align:left;">7.69e-06</td>
+      <td style="text-align:left;">0.0145</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">44166</td>
+      <td style="text-align:left;">44178</td>
+      <td style="text-align:left;">8.24e-06</td>
+      <td style="text-align:left;">0.015</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATATATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">13357</td>
+      <td style="text-align:left;">13369</td>
+      <td style="text-align:left;">9.85e-06</td>
+      <td style="text-align:left;">0.0162</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTTATATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">16395</td>
+      <td style="text-align:left;">16407</td>
+      <td style="text-align:left;">9.85e-06</td>
+      <td style="text-align:left;">0.0162</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTTATATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">48673</td>
+      <td style="text-align:left;">48685</td>
+      <td style="text-align:left;">9.85e-06</td>
+      <td style="text-align:left;">0.0162</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATCACAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">5973</td>
+      <td style="text-align:left;">5985</td>
+      <td style="text-align:left;">1.01e-05</td>
+      <td style="text-align:left;">0.0162</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGCATAATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">26311</td>
+      <td style="text-align:left;">26323</td>
+      <td style="text-align:left;">1.1e-05</td>
+      <td style="text-align:left;">0.0172</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATAAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">27628</td>
+      <td style="text-align:left;">27640</td>
+      <td style="text-align:left;">1.14e-05</td>
+      <td style="text-align:left;">0.0172</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATACTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">1559</td>
+      <td style="text-align:left;">1571</td>
+      <td style="text-align:left;">1.32e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">3897</td>
+      <td style="text-align:left;">3909</td>
+      <td style="text-align:left;">1.32e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">54318</td>
+      <td style="text-align:left;">54330</td>
+      <td style="text-align:left;">1.32e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">70425</td>
+      <td style="text-align:left;">70437</td>
+      <td style="text-align:left;">1.35e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTACTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6285</td>
+      <td style="text-align:left;">6297</td>
+      <td style="text-align:left;">1.4e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATTCCAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">66342</td>
+      <td style="text-align:left;">66354</td>
+      <td style="text-align:left;">1.44e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTACTG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">3221</td>
+      <td style="text-align:left;">3233</td>
+      <td style="text-align:left;">1.47e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTCTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">28900</td>
+      <td style="text-align:left;">28912</td>
+      <td style="text-align:left;">1.51e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGCATTAAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">46214</td>
+      <td style="text-align:left;">46226</td>
+      <td style="text-align:left;">1.55e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTAAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">810</td>
+      <td style="text-align:left;">822</td>
+      <td style="text-align:left;">1.59e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">43946</td>
+      <td style="text-align:left;">43958</td>
+      <td style="text-align:left;">1.59e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">68085</td>
+      <td style="text-align:left;">68097</td>
+      <td style="text-align:left;">1.59e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">68319</td>
+      <td style="text-align:left;">68331</td>
+      <td style="text-align:left;">1.59e-05</td>
+      <td style="text-align:left;">0.0175</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">69986</td>
+      <td style="text-align:left;">69998</td>
+      <td style="text-align:left;">1.74e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTAATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">34828</td>
+      <td style="text-align:left;">34840</td>
+      <td style="text-align:left;">1.77e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTAATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">28271</td>
+      <td style="text-align:left;">28283</td>
+      <td style="text-align:left;">1.91e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">62276</td>
+      <td style="text-align:left;">62288</td>
+      <td style="text-align:left;">1.91e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">50010</td>
+      <td style="text-align:left;">50022</td>
+      <td style="text-align:left;">1.93e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTACTAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6825</td>
+      <td style="text-align:left;">6837</td>
+      <td style="text-align:left;">1.95e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATACAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">36016</td>
+      <td style="text-align:left;">36028</td>
+      <td style="text-align:left;">1.98e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTATATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">4092</td>
+      <td style="text-align:left;">4104</td>
+      <td style="text-align:left;">1.98e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATAAATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">23437</td>
+      <td style="text-align:left;">23449</td>
+      <td style="text-align:left;">1.98e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATAAATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">27423</td>
+      <td style="text-align:left;">27435</td>
+      <td style="text-align:left;">2.09e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATTTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">41045</td>
+      <td style="text-align:left;">41057</td>
+      <td style="text-align:left;">2.09e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATTTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">45019</td>
+      <td style="text-align:left;">45031</td>
+      <td style="text-align:left;">2.09e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATTTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">38031</td>
+      <td style="text-align:left;">38043</td>
+      <td style="text-align:left;">2.14e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGCATATAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">61927</td>
+      <td style="text-align:left;">61939</td>
+      <td style="text-align:left;">2.25e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATAATAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">48088</td>
+      <td style="text-align:left;">48100</td>
+      <td style="text-align:left;">2.3e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTTTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">52348</td>
+      <td style="text-align:left;">52360</td>
+      <td style="text-align:left;">2.3e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTTTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">4432</td>
+      <td style="text-align:left;">4444</td>
+      <td style="text-align:left;">2.36e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATCTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">25138</td>
+      <td style="text-align:left;">25150</td>
+      <td style="text-align:left;">2.38e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">51256</td>
+      <td style="text-align:left;">51268</td>
+      <td style="text-align:left;">2.4e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATTTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">14215</td>
+      <td style="text-align:left;">14227</td>
+      <td style="text-align:left;">2.42e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTACATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">49248</td>
+      <td style="text-align:left;">49260</td>
+      <td style="text-align:left;">2.43e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATCTTAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">30177</td>
+      <td style="text-align:left;">30189</td>
+      <td style="text-align:left;">2.49e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATTAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">6942</td>
+      <td style="text-align:left;">6954</td>
+      <td style="text-align:left;">2.62e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTAATAAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">14416</td>
+      <td style="text-align:left;">14428</td>
+      <td style="text-align:left;">2.69e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTTAATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">53646</td>
+      <td style="text-align:left;">53658</td>
+      <td style="text-align:left;">2.7e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">56480</td>
+      <td style="text-align:left;">56492</td>
+      <td style="text-align:left;">2.7e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">63645</td>
+      <td style="text-align:left;">63657</td>
+      <td style="text-align:left;">2.7e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">65770</td>
+      <td style="text-align:left;">65782</td>
+      <td style="text-align:left;">2.7e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">10010</td>
+      <td style="text-align:left;">10022</td>
+      <td style="text-align:left;">2.7e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">50186</td>
+      <td style="text-align:left;">50198</td>
+      <td style="text-align:left;">2.7e-05</td>
+      <td style="text-align:left;">0.0183</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">3981</td>
+      <td style="text-align:left;">3993</td>
+      <td style="text-align:left;">2.82e-05</td>
+      <td style="text-align:left;">0.0188</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATTAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">13516</td>
+      <td style="text-align:left;">13528</td>
+      <td style="text-align:left;">2.92e-05</td>
+      <td style="text-align:left;">0.0193</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGCTGAACAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">60812</td>
+      <td style="text-align:left;">60824</td>
+      <td style="text-align:left;">3.06e-05</td>
+      <td style="text-align:left;">0.0194</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">GTAGGTATATAAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">64882</td>
+      <td style="text-align:left;">64894</td>
+      <td style="text-align:left;">3.06e-05</td>
+      <td style="text-align:left;">0.0194</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">66159</td>
+      <td style="text-align:left;">66171</td>
+      <td style="text-align:left;">3.09e-05</td>
+      <td style="text-align:left;">0.0194</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">71714</td>
+      <td style="text-align:left;">71726</td>
+      <td style="text-align:left;">3.09e-05</td>
+      <td style="text-align:left;">0.0194</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">48451</td>
+      <td style="text-align:left;">48463</td>
+      <td style="text-align:left;">3.34e-05</td>
+      <td style="text-align:left;">0.0202</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAAATAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">15697</td>
+      <td style="text-align:left;">15709</td>
+      <td style="text-align:left;">3.34e-05</td>
+      <td style="text-align:left;">0.0202</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTTAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">56851</td>
+      <td style="text-align:left;">56863</td>
+      <td style="text-align:left;">3.43e-05</td>
+      <td style="text-align:left;">0.0202</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATCATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">68605</td>
+      <td style="text-align:left;">68617</td>
+      <td style="text-align:left;">3.43e-05</td>
+      <td style="text-align:left;">0.0202</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTTATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">68019</td>
+      <td style="text-align:left;">68031</td>
+      <td style="text-align:left;">3.46e-05</td>
+      <td style="text-align:left;">0.0202</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGCATATTTT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">72049</td>
+      <td style="text-align:left;">72061</td>
+      <td style="text-align:left;">3.47e-05</td>
+      <td style="text-align:left;">0.0202</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTTATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">20146</td>
+      <td style="text-align:left;">20158</td>
+      <td style="text-align:left;">3.49e-05</td>
+      <td style="text-align:left;">0.0202</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTATTT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">27741</td>
+      <td style="text-align:left;">27753</td>
+      <td style="text-align:left;">3.57e-05</td>
+      <td style="text-align:left;">0.0204</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATAAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">29233</td>
+      <td style="text-align:left;">29245</td>
+      <td style="text-align:left;">3.58e-05</td>
+      <td style="text-align:left;">0.0204</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTTATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">42034</td>
+      <td style="text-align:left;">42046</td>
+      <td style="text-align:left;">3.76e-05</td>
+      <td style="text-align:left;">0.0209</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATAATTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">70502</td>
+      <td style="text-align:left;">70514</td>
+      <td style="text-align:left;">3.76e-05</td>
+      <td style="text-align:left;">0.0209</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATAATTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">9216</td>
+      <td style="text-align:left;">9228</td>
+      <td style="text-align:left;">3.96e-05</td>
+      <td style="text-align:left;">0.0216</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTATTTAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">13348</td>
+      <td style="text-align:left;">13360</td>
+      <td style="text-align:left;">4.04e-05</td>
+      <td style="text-align:left;">0.0216</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGCATTATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">62513</td>
+      <td style="text-align:left;">62525</td>
+      <td style="text-align:left;">4.04e-05</td>
+      <td style="text-align:left;">0.0216</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATAATTT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">16260</td>
+      <td style="text-align:left;">16272</td>
+      <td style="text-align:left;">4.08e-05</td>
+      <td style="text-align:left;">0.0216</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATAAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">70828</td>
+      <td style="text-align:left;">70840</td>
+      <td style="text-align:left;">4.08e-05</td>
+      <td style="text-align:left;">0.0216</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATAAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">64820</td>
+      <td style="text-align:left;">64832</td>
+      <td style="text-align:left;">4.22e-05</td>
+      <td style="text-align:left;">0.0221</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTTTATCT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6254</td>
+      <td style="text-align:left;">6266</td>
+      <td style="text-align:left;">4.27e-05</td>
+      <td style="text-align:left;">0.0221</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">GGAGGTATAACAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">38227</td>
+      <td style="text-align:left;">38239</td>
+      <td style="text-align:left;">4.45e-05</td>
+      <td style="text-align:left;">0.0228</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTACTG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">19004</td>
+      <td style="text-align:left;">19016</td>
+      <td style="text-align:left;">4.52e-05</td>
+      <td style="text-align:left;">0.023</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATTATTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">23258</td>
+      <td style="text-align:left;">23270</td>
+      <td style="text-align:left;">4.59e-05</td>
+      <td style="text-align:left;">0.0231</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTATTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">11573</td>
+      <td style="text-align:left;">11585</td>
+      <td style="text-align:left;">4.71e-05</td>
+      <td style="text-align:left;">0.0231</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTATATTT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">54917</td>
+      <td style="text-align:left;">54929</td>
+      <td style="text-align:left;">4.71e-05</td>
+      <td style="text-align:left;">0.0231</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTATATTT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">12894</td>
+      <td style="text-align:left;">12906</td>
+      <td style="text-align:left;">4.82e-05</td>
+      <td style="text-align:left;">0.0231</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATCCT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">71988</td>
+      <td style="text-align:left;">72000</td>
+      <td style="text-align:left;">4.82e-05</td>
+      <td style="text-align:left;">0.0231</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">AAAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6018</td>
+      <td style="text-align:left;">6030</td>
+      <td style="text-align:left;">4.82e-05</td>
+      <td style="text-align:left;">0.0231</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">AAAGGTATAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">30655</td>
+      <td style="text-align:left;">30667</td>
+      <td style="text-align:left;">4.99e-05</td>
+      <td style="text-align:left;">0.0235</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAATATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">41794</td>
+      <td style="text-align:left;">41806</td>
+      <td style="text-align:left;">4.99e-05</td>
+      <td style="text-align:left;">0.0235</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAATATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">62124</td>
+      <td style="text-align:left;">62136</td>
+      <td style="text-align:left;">5.19e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CAAGGTATACTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">27960</td>
+      <td style="text-align:left;">27972</td>
+      <td style="text-align:left;">5.22e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTACATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">13958</td>
+      <td style="text-align:left;">13970</td>
+      <td style="text-align:left;">5.3e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTAGTATAG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">20283</td>
+      <td style="text-align:left;">20295</td>
+      <td style="text-align:left;">5.34e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTAATCCAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">28319</td>
+      <td style="text-align:left;">28331</td>
+      <td style="text-align:left;">5.39e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">47114</td>
+      <td style="text-align:left;">47126</td>
+      <td style="text-align:left;">5.5e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTACTAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">65498</td>
+      <td style="text-align:left;">65510</td>
+      <td style="text-align:left;">5.53e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATAAATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">65753</td>
+      <td style="text-align:left;">65765</td>
+      <td style="text-align:left;">5.53e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATAAATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6052</td>
+      <td style="text-align:left;">6064</td>
+      <td style="text-align:left;">5.58e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTATATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6217</td>
+      <td style="text-align:left;">6229</td>
+      <td style="text-align:left;">5.58e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTATATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">47594</td>
+      <td style="text-align:left;">47606</td>
+      <td style="text-align:left;">5.58e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTATATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">45787</td>
+      <td style="text-align:left;">45799</td>
+      <td style="text-align:left;">5.61e-05</td>
+      <td style="text-align:left;">0.0239</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CAAGGCATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">41650</td>
+      <td style="text-align:left;">41662</td>
+      <td style="text-align:left;">5.73e-05</td>
+      <td style="text-align:left;">0.024</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATTCTAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">72147</td>
+      <td style="text-align:left;">72159</td>
+      <td style="text-align:left;">5.73e-05</td>
+      <td style="text-align:left;">0.024</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTAAAATAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">49085</td>
+      <td style="text-align:left;">49097</td>
+      <td style="text-align:left;">5.85e-05</td>
+      <td style="text-align:left;">0.0243</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTTTACTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">20829</td>
+      <td style="text-align:left;">20841</td>
+      <td style="text-align:left;">5.93e-05</td>
+      <td style="text-align:left;">0.0245</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGCTTATTAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">49322</td>
+      <td style="text-align:left;">49334</td>
+      <td style="text-align:left;">6.09e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTAATAATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">2715</td>
+      <td style="text-align:left;">2727</td>
+      <td style="text-align:left;">6.37e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGCATATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">17743</td>
+      <td style="text-align:left;">17755</td>
+      <td style="text-align:left;">6.37e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTAATATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">56390</td>
+      <td style="text-align:left;">56402</td>
+      <td style="text-align:left;">6.42e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATCTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">10100</td>
+      <td style="text-align:left;">10112</td>
+      <td style="text-align:left;">6.42e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATCTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">56254</td>
+      <td style="text-align:left;">56266</td>
+      <td style="text-align:left;">6.46e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATCTATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">10236</td>
+      <td style="text-align:left;">10248</td>
+      <td style="text-align:left;">6.46e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATCTATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">36185</td>
+      <td style="text-align:left;">36197</td>
+      <td style="text-align:left;">6.5e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATTTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">48481</td>
+      <td style="text-align:left;">48493</td>
+      <td style="text-align:left;">6.5e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATTTA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">37878</td>
+      <td style="text-align:left;">37890</td>
+      <td style="text-align:left;">6.52e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTAATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">40901</td>
+      <td style="text-align:left;">40913</td>
+      <td style="text-align:left;">6.52e-05</td>
+      <td style="text-align:left;">0.0248</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTAATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">4270</td>
+      <td style="text-align:left;">4282</td>
+      <td style="text-align:left;">6.97e-05</td>
+      <td style="text-align:left;">0.0263</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTTATATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">70018</td>
+      <td style="text-align:left;">70030</td>
+      <td style="text-align:left;">7.03e-05</td>
+      <td style="text-align:left;">0.0264</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTATATAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">39481</td>
+      <td style="text-align:left;">39493</td>
+      <td style="text-align:left;">7.14e-05</td>
+      <td style="text-align:left;">0.0266</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">AAAGGTATATTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">18489</td>
+      <td style="text-align:left;">18501</td>
+      <td style="text-align:left;">7.22e-05</td>
+      <td style="text-align:left;">0.0267</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">GGAGGTATATAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">65397</td>
+      <td style="text-align:left;">65409</td>
+      <td style="text-align:left;">7.4e-05</td>
+      <td style="text-align:left;">0.0269</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTAAAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">9566</td>
+      <td style="text-align:left;">9578</td>
+      <td style="text-align:left;">7.44e-05</td>
+      <td style="text-align:left;">0.0269</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTTATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">37761</td>
+      <td style="text-align:left;">37773</td>
+      <td style="text-align:left;">7.44e-05</td>
+      <td style="text-align:left;">0.0269</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTTATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">61884</td>
+      <td style="text-align:left;">61896</td>
+      <td style="text-align:left;">7.62e-05</td>
+      <td style="text-align:left;">0.0274</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTATAAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">30943</td>
+      <td style="text-align:left;">30955</td>
+      <td style="text-align:left;">7.77e-05</td>
+      <td style="text-align:left;">0.0275</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATCTATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">68748</td>
+      <td style="text-align:left;">68760</td>
+      <td style="text-align:left;">7.77e-05</td>
+      <td style="text-align:left;">0.0275</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATTAAAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">29510</td>
+      <td style="text-align:left;">29522</td>
+      <td style="text-align:left;">7.86e-05</td>
+      <td style="text-align:left;">0.0275</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">7261</td>
+      <td style="text-align:left;">7273</td>
+      <td style="text-align:left;">7.86e-05</td>
+      <td style="text-align:left;">0.0275</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">45058</td>
+      <td style="text-align:left;">45070</td>
+      <td style="text-align:left;">8.14e-05</td>
+      <td style="text-align:left;">0.0283</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATTTTAT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">18847</td>
+      <td style="text-align:left;">18859</td>
+      <td style="text-align:left;">8.28e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">6316</td>
+      <td style="text-align:left;">6328</td>
+      <td style="text-align:left;">8.4e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTAATTATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">42669</td>
+      <td style="text-align:left;">42681</td>
+      <td style="text-align:left;">8.62e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTAATACT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">43415</td>
+      <td style="text-align:left;">43427</td>
+      <td style="text-align:left;">8.62e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">12970</td>
+      <td style="text-align:left;">12982</td>
+      <td style="text-align:left;">8.62e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">24647</td>
+      <td style="text-align:left;">24659</td>
+      <td style="text-align:left;">8.62e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">24675</td>
+      <td style="text-align:left;">24687</td>
+      <td style="text-align:left;">8.62e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">57951</td>
+      <td style="text-align:left;">57963</td>
+      <td style="text-align:left;">8.62e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTTTATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">36452</td>
+      <td style="text-align:left;">36464</td>
+      <td style="text-align:left;">8.66e-05</td>
+      <td style="text-align:left;">0.0284</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTATATTAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">23573</td>
+      <td style="text-align:left;">23585</td>
+      <td style="text-align:left;">8.91e-05</td>
+      <td style="text-align:left;">0.0285</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">CTAGGTATTTATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">29606</td>
+      <td style="text-align:left;">29618</td>
+      <td style="text-align:left;">8.91e-05</td>
+      <td style="text-align:left;">0.0285</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAAATATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">30766</td>
+      <td style="text-align:left;">30778</td>
+      <td style="text-align:left;">8.91e-05</td>
+      <td style="text-align:left;">0.0285</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAAATATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">38841</td>
+      <td style="text-align:left;">38853</td>
+      <td style="text-align:left;">8.91e-05</td>
+      <td style="text-align:left;">0.0285</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTATTTATG</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">24042</td>
+      <td style="text-align:left;">24054</td>
+      <td style="text-align:left;">9e-05</td>
+      <td style="text-align:left;">0.0285</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTTATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">22220</td>
+      <td style="text-align:left;">22232</td>
+      <td style="text-align:left;">9e-05</td>
+      <td style="text-align:left;">0.0285</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTATTTATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">15646</td>
+      <td style="text-align:left;">15658</td>
+      <td style="text-align:left;">9.28e-05</td>
+      <td style="text-align:left;">0.0292</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTATTATT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">13012</td>
+      <td style="text-align:left;">13024</td>
+      <td style="text-align:left;">9.41e-05</td>
+      <td style="text-align:left;">0.0294</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TAAGGTTTATTAA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">40383</td>
+      <td style="text-align:left;">40395</td>
+      <td style="text-align:left;">9.87e-05</td>
+      <td style="text-align:left;">0.0303</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">TTAGGTTAATATA</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">19913</td>
+      <td style="text-align:left;">19925</td>
+      <td style="text-align:left;">9.93e-05</td>
+      <td style="text-align:left;">0.0303</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAATATTT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">-</td>
+      <td style="text-align:left;">73778</td>
+      <td style="text-align:left;">73790</td>
+      <td style="text-align:left;">9.93e-05</td>
+      <td style="text-align:left;">0.0303</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAATATTT</td>
+   </tr>
+    <tr>
+      <td style="text-align:left;">YTAGGTWTAWHAK</td>
+      <td style="text-align:left;">MEME-1</td>
+      <td style="text-align:left;">POL_mtDNA_FINAL</td>
+      <td style="text-align:center;">+</td>
+      <td style="text-align:left;">67402</td>
+      <td style="text-align:left;">67414</td>
+      <td style="text-align:left;">9.93e-05</td>
+      <td style="text-align:left;">0.0303</td>
+      <td style="text-align:left;font-size:x-large;font-family:monospace;">ATAGGTAATATTT</td>
+   </tr>
+</tbody>
+</table>
+
+<hr>
+<center><big><b><a name="debugging_information">DEBUGGING INFORMATION</a></b></big></center>
+<hr>
+<p>
+Command line:
+</p>
+<pre>
+fimo -oc Pols_frameshifts.fimo frameshifts.meme/meme.txt Pols_mt.fna
+</pre>
+<p>
+Settings:
+</p>
+<pre>
+<table>
+  <tr>
+    <td style="padding-right: 2em">output_directory = Pols_frameshifts.fimo</td>
+    <td style="padding-left: 5em; padding-right: 2em">MEME file name = frameshifts.meme/meme.txt</td>
+    <td style="padding-left: 5em; padding-right: 2em">sequence file name = Pols_mt.fna</td>
+  </tr>  <tr>
+    <td style="padding-right: 2em">background file name = --nrdb--</td>
+    <td style="padding-left: 5em; padding-right: 2em">alphabet = DNA</td>
+    <td style="padding-left: 5em; padding-right: 2em">max stored scores = 100000</td>
+  </tr>  <tr>
+    <td style="padding-right: 2em">allow clobber = true</td>
+    <td style="padding-left: 5em; padding-right: 2em">compute q-values = true</td>
+    <td style="padding-left: 5em; padding-right: 2em">parse genomic coord. = false</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 2em">text only = false</td>
+    <td style="padding-left: 5em; padding-right: 2em">scan both strands = true</td>
+    <td style="padding-left: 5em; padding-right: 2em">max strand = false</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 2em">threshold type = p-value</td>
+    <td style="padding-left: 5em; padding-right: 2em">output theshold = 0.0001</td>
+    <td style="padding-left: 5em; padding-right: 2em">pseudocount = 0.1</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 2em">alpha = 1</td>
+    <td style="padding-left: 5em; padding-right: 2em">verbosity = 2</td>
+    <td style="padding-left: 5em; padding-right: 2em"></td>
+  </tr>
+
+</table>
+</pre>
+<p>
+This information can be useful in the event you wish to report a
+problem with the FIMO software.
+</p>
+<hr>
+<span style="background-color: #DDDDFF"><a href="#top_buttons"><b>Go to top</b></a></span>
+</body>
+</html>

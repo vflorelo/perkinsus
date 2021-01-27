@@ -1,0 +1,4770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="454"
+   height="392"
+   text-rendering="auto"
+   shape-rendering="auto"
+   version="1.1"
+   id="svg5498"
+   sodipodi:docname="Pmar_mt.fs.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/vflorelo/Dropbox/git/perkinsus/frameshifts/mitochondrial_genomes/Pmar_mt.fs.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata5502">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     id="namedview5500"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false"
+     inkscape:zoom="1.5353319"
+     inkscape:cx="458.81445"
+     inkscape:cy="183.75531"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5498">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10015" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2792" />
+  <rect
+     x="266.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2926" />
+  <text
+     x="-0.46799999"
+     y="65.622665"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2818">Pmar_1590</text>
+  <text
+     x="-0.46799999"
+     y="88.622665"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2824">Pmar_1749</text>
+  <text
+     x="-0.46799999"
+     y="111.62267"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2830">Pmar_1828</text>
+  <text
+     x="-0.46799999"
+     y="134.62267"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2836">Pmar_2405</text>
+  <text
+     x="-0.46799999"
+     y="157.62267"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2842">Pmar_2448</text>
+  <text
+     x="-0.46799999"
+     y="180.62267"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2848">Pmar_2527</text>
+  <text
+     x="-0.46799999"
+     y="203.62267"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2854">Pmar_2594</text>
+  <text
+     x="-0.46799999"
+     y="226.62267"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2860">Pmar_2649</text>
+  <text
+     x="-0.46799999"
+     y="249.62267"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2866">Pmar_27090</text>
+  <text
+     x="-0.46799999"
+     y="272.62265"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2872">Pmar_27134</text>
+  <text
+     x="-0.46799999"
+     y="295.62265"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2878">Pmar_27213</text>
+  <text
+     x="-0.46799999"
+     y="318.62265"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2884">Pmar_27415</text>
+  <text
+     x="-0.46799999"
+     y="341.62265"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2890">Pmar_27445</text>
+  <text
+     x="-0.46799999"
+     y="364.62265"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2896">Pmar_27477</text>
+  <text
+     x="-0.46799999"
+     y="387.62265"
+     style="font-style:italic;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2902">Pmar_27670</text>
+  <rect
+     x="134.532"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2908" />
+  <rect
+     x="145.532"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect2910" />
+  <rect
+     x="156.532"
+     y="46.622665"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2912" />
+  <rect
+     x="178.532"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect2914" />
+  <rect
+     x="189.532"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2916" />
+  <rect
+     x="200.532"
+     y="46.622665"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect2918" />
+  <rect
+     x="222.532"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2920" />
+  <rect
+     x="233.532"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect2922" />
+  <rect
+     x="123.532"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect2906" />
+  <rect
+     x="244.532"
+     y="46.622665"
+     width="22"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect2924" />
+  <rect
+     x="277.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect2928" />
+  <rect
+     x="288.53201"
+     y="46.622665"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect2930" />
+  <rect
+     x="310.53201"
+     y="46.622665"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2932" />
+  <rect
+     x="343.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect2934" />
+  <rect
+     x="354.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2936" />
+  <rect
+     x="365.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect2938" />
+  <rect
+     x="376.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2940" />
+  <rect
+     x="387.53201"
+     y="46.622665"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect2942" />
+  <rect
+     x="409.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2944" />
+  <rect
+     x="420.53201"
+     y="46.622665"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect2946" />
+  <rect
+     x="442.53201"
+     y="46.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect2948" />
+  <text
+     x="123.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2950">a</text>
+  <text
+     x="134.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2954">t</text>
+  <text
+     x="145.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2958">a</text>
+  <text
+     x="156.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2962">t</text>
+  <text
+     x="167.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2966">t</text>
+  <text
+     x="178.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2970">a</text>
+  <text
+     x="189.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2974">t</text>
+  <text
+     x="200.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2978">a</text>
+  <text
+     x="211.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2982">a</text>
+  <text
+     x="222.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2986">t</text>
+  <text
+     x="233.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2990">g</text>
+  <text
+     x="244.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2994">c</text>
+  <text
+     x="255.532"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text2998">c</text>
+  <text
+     x="266.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3002">t</text>
+  <text
+     x="277.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3006">a</text>
+  <text
+     x="288.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3010">g</text>
+  <text
+     x="299.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3014">g</text>
+  <text
+     x="310.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3018">t</text>
+  <text
+     x="321.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3022">t</text>
+  <text
+     x="332.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3026">t</text>
+  <text
+     x="343.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3030">a</text>
+  <text
+     x="354.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3034">t</text>
+  <text
+     x="365.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3038">a</text>
+  <text
+     x="376.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3042">t</text>
+  <text
+     x="387.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3046">g</text>
+  <text
+     x="398.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3050">g</text>
+  <text
+     x="409.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3054">t</text>
+  <text
+     x="420.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3058">g</text>
+  <text
+     x="431.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3062">g</text>
+  <text
+     x="442.53201"
+     y="65.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3066">t</text>
+  <rect
+     x="123.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3070" />
+  <rect
+     x="134.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3072" />
+  <rect
+     x="145.532"
+     y="69.622665"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3074" />
+  <rect
+     x="167.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3076" />
+  <rect
+     x="178.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3078" />
+  <rect
+     x="189.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3080" />
+  <rect
+     x="200.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3082" />
+  <rect
+     x="211.532"
+     y="69.622665"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3084" />
+  <rect
+     x="233.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3086" />
+  <rect
+     x="244.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3088" />
+  <rect
+     x="255.532"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3090" />
+  <rect
+     x="277.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3094" />
+  <rect
+     x="288.53201"
+     y="69.622665"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3096" />
+  <rect
+     x="310.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3098" />
+  <rect
+     x="266.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3092" />
+  <rect
+     x="332.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3102" />
+  <rect
+     x="343.53201"
+     y="69.622665"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3104" />
+  <rect
+     x="365.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3106" />
+  <rect
+     x="376.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3108" />
+  <rect
+     x="387.53201"
+     y="69.622665"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3110" />
+  <rect
+     x="409.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3112" />
+  <rect
+     x="420.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3114" />
+  <rect
+     x="431.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3116" />
+  <rect
+     x="321.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3100" />
+  <rect
+     x="442.53201"
+     y="69.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3118" />
+  <text
+     x="123.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3120">a</text>
+  <text
+     x="134.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3124">c</text>
+  <text
+     x="145.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3128">a</text>
+  <text
+     x="156.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3132">a</text>
+  <text
+     x="167.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3136">t</text>
+  <text
+     x="178.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3140">a</text>
+  <text
+     x="189.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3144">t</text>
+  <text
+     x="200.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3148">a</text>
+  <text
+     x="211.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3152">g</text>
+  <text
+     x="222.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3156">g</text>
+  <text
+     x="233.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3160">t</text>
+  <text
+     x="244.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3164">a</text>
+  <text
+     x="255.532"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3168">c</text>
+  <text
+     x="266.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3172">t</text>
+  <text
+     x="277.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3176">a</text>
+  <text
+     x="288.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3180">g</text>
+  <text
+     x="299.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3184">g</text>
+  <text
+     x="310.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3188">c</text>
+  <text
+     x="321.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3192">t</text>
+  <text
+     x="332.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3196">g</text>
+  <text
+     x="343.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3200">a</text>
+  <text
+     x="354.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3204">a</text>
+  <text
+     x="365.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3208">c</text>
+  <text
+     x="376.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3212">a</text>
+  <text
+     x="387.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3216">t</text>
+  <text
+     x="398.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3220">t</text>
+  <text
+     x="409.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3224">a</text>
+  <text
+     x="420.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3228">t</text>
+  <text
+     x="431.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3232">a</text>
+  <text
+     x="442.53201"
+     y="88.622665"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3236">t</text>
+  <rect
+     x="123.532"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3240" />
+  <rect
+     x="134.532"
+     y="92.622665"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3242" />
+  <rect
+     x="167.532"
+     y="92.622665"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3244" />
+  <rect
+     x="189.532"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3246" />
+  <rect
+     x="200.532"
+     y="92.622665"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3248" />
+  <rect
+     x="222.532"
+     y="92.622665"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3250" />
+  <rect
+     x="244.532"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3252" />
+  <rect
+     x="255.532"
+     y="92.622665"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3254" />
+  <rect
+     x="277.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3256" />
+  <rect
+     x="288.53201"
+     y="92.622665"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3258" />
+  <rect
+     x="310.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3260" />
+  <rect
+     x="321.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3262" />
+  <rect
+     x="332.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3264" />
+  <rect
+     x="343.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3266" />
+  <rect
+     x="354.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3268" />
+  <rect
+     x="365.53201"
+     y="92.622665"
+     width="22"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3270" />
+  <rect
+     x="387.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3272" />
+  <rect
+     x="398.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3274" />
+  <rect
+     x="409.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3276" />
+  <rect
+     x="420.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3278" />
+  <rect
+     x="431.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3280" />
+  <rect
+     x="442.53201"
+     y="92.622665"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3282" />
+  <text
+     x="123.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3284">g</text>
+  <text
+     x="134.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3288">t</text>
+  <text
+     x="145.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3292">t</text>
+  <text
+     x="156.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3296">t</text>
+  <text
+     x="167.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3300">a</text>
+  <text
+     x="178.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3304">a</text>
+  <text
+     x="189.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3308">t</text>
+  <text
+     x="200.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3312">a</text>
+  <text
+     x="211.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3316">a</text>
+  <text
+     x="222.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3320">t</text>
+  <text
+     x="233.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3324">t</text>
+  <text
+     x="244.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3328">a</text>
+  <text
+     x="255.532"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3332">t</text>
+  <text
+     x="266.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3336">t</text>
+  <text
+     x="277.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3340">a</text>
+  <text
+     x="288.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3344">g</text>
+  <text
+     x="299.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3348">g</text>
+  <text
+     x="310.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3352">c</text>
+  <text
+     x="321.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3356">a</text>
+  <text
+     x="332.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3360">t</text>
+  <text
+     x="343.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3364">a</text>
+  <text
+     x="354.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3368">t</text>
+  <text
+     x="365.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3372">c</text>
+  <text
+     x="376.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3376">c</text>
+  <text
+     x="387.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3380">t</text>
+  <text
+     x="398.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3384">c</text>
+  <text
+     x="409.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3388">t</text>
+  <text
+     x="420.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3392">a</text>
+  <text
+     x="431.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3396">t</text>
+  <text
+     x="442.53201"
+     y="111.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3400">a</text>
+  <rect
+     x="123.532"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3404" />
+  <rect
+     x="134.532"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3406" />
+  <rect
+     x="145.532"
+     y="115.62267"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3408" />
+  <rect
+     x="178.532"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3410" />
+  <rect
+     x="189.532"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3412" />
+  <rect
+     x="200.532"
+     y="115.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3414" />
+  <rect
+     x="222.532"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3416" />
+  <rect
+     x="233.532"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3418" />
+  <rect
+     x="244.532"
+     y="115.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3420" />
+  <rect
+     x="277.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3424" />
+  <rect
+     x="288.53201"
+     y="115.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3426" />
+  <rect
+     x="266.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3422" />
+  <rect
+     x="310.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3428" />
+  <rect
+     x="321.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3430" />
+  <rect
+     x="332.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3432" />
+  <rect
+     x="343.53201"
+     y="115.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3434" />
+  <rect
+     x="365.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3436" />
+  <rect
+     x="376.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3438" />
+  <rect
+     x="387.53201"
+     y="115.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3440" />
+  <rect
+     x="409.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3442" />
+  <rect
+     x="420.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3444" />
+  <rect
+     x="431.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3446" />
+  <rect
+     x="442.53201"
+     y="115.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3448" />
+  <text
+     x="123.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3450">t</text>
+  <text
+     x="134.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3454">a</text>
+  <text
+     x="145.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3458">t</text>
+  <text
+     x="156.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3462">t</text>
+  <text
+     x="167.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3466">t</text>
+  <text
+     x="178.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3470">a</text>
+  <text
+     x="189.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3474">t</text>
+  <text
+     x="200.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3478">a</text>
+  <text
+     x="211.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3482">a</text>
+  <text
+     x="222.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3486">t</text>
+  <text
+     x="233.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3490">a</text>
+  <text
+     x="244.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3494">g</text>
+  <text
+     x="255.532"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3498">g</text>
+  <text
+     x="266.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3502">t</text>
+  <text
+     x="277.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3506">a</text>
+  <text
+     x="288.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3510">g</text>
+  <text
+     x="299.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3514">g</text>
+  <text
+     x="310.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3518">t</text>
+  <text
+     x="321.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3522">a</text>
+  <text
+     x="332.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3526">t</text>
+  <text
+     x="343.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3530">a</text>
+  <text
+     x="354.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3534">a</text>
+  <text
+     x="365.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3538">c</text>
+  <text
+     x="376.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3542">a</text>
+  <text
+     x="387.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3546">g</text>
+  <text
+     x="398.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3550">g</text>
+  <text
+     x="409.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3554">t</text>
+  <text
+     x="420.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3558">a</text>
+  <text
+     x="431.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3562">t</text>
+  <text
+     x="442.53201"
+     y="134.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3566">a</text>
+  <rect
+     x="123.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3570" />
+  <rect
+     x="134.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3572" />
+  <rect
+     x="145.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3574" />
+  <rect
+     x="156.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3576" />
+  <rect
+     x="167.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3578" />
+  <rect
+     x="178.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3580" />
+  <rect
+     x="189.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3582" />
+  <rect
+     x="200.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3584" />
+  <rect
+     x="211.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3586" />
+  <rect
+     x="222.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3588" />
+  <rect
+     x="233.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3590" />
+  <rect
+     x="244.532"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3592" />
+  <rect
+     x="255.532"
+     y="138.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3594" />
+  <rect
+     x="277.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3596" />
+  <rect
+     x="288.53201"
+     y="138.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3598" />
+  <rect
+     x="310.53201"
+     y="138.62267"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3600" />
+  <rect
+     x="343.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3602" />
+  <rect
+     x="354.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3604" />
+  <rect
+     x="365.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3606" />
+  <rect
+     x="376.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3608" />
+  <rect
+     x="387.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3610" />
+  <rect
+     x="398.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3612" />
+  <rect
+     x="409.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3614" />
+  <rect
+     x="420.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3616" />
+  <rect
+     x="431.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3618" />
+  <rect
+     x="442.53201"
+     y="138.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3620" />
+  <text
+     x="123.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3622">a</text>
+  <text
+     x="134.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3626">t</text>
+  <text
+     x="145.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3630">a</text>
+  <text
+     x="156.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3634">t</text>
+  <text
+     x="167.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3638">c</text>
+  <text
+     x="178.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3642">a</text>
+  <text
+     x="189.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3646">t</text>
+  <text
+     x="200.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3650">a</text>
+  <text
+     x="211.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3654">g</text>
+  <text
+     x="222.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3658">a</text>
+  <text
+     x="233.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3662">t</text>
+  <text
+     x="244.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3666">a</text>
+  <text
+     x="255.532"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3670">t</text>
+  <text
+     x="266.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3674">t</text>
+  <text
+     x="277.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3678">a</text>
+  <text
+     x="288.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3682">g</text>
+  <text
+     x="299.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3686">g</text>
+  <text
+     x="310.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3690">t</text>
+  <text
+     x="321.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3694">t</text>
+  <text
+     x="332.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3698">t</text>
+  <text
+     x="343.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3702">a</text>
+  <text
+     x="354.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3706">c</text>
+  <text
+     x="365.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3710">a</text>
+  <text
+     x="376.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3714">t</text>
+  <text
+     x="387.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3718">g</text>
+  <text
+     x="398.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3722">a</text>
+  <text
+     x="409.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3726">t</text>
+  <text
+     x="420.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3730">a</text>
+  <text
+     x="431.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3734">c</text>
+  <text
+     x="442.53201"
+     y="157.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3738">a</text>
+  <rect
+     x="123.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3742" />
+  <rect
+     x="134.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3744" />
+  <rect
+     x="145.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3746" />
+  <rect
+     x="156.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3748" />
+  <rect
+     x="167.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3750" />
+  <rect
+     x="178.532"
+     y="161.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3752" />
+  <rect
+     x="200.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3754" />
+  <rect
+     x="211.532"
+     y="161.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3756" />
+  <rect
+     x="233.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3758" />
+  <rect
+     x="244.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3760" />
+  <rect
+     x="255.532"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3762" />
+  <rect
+     x="266.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3764" />
+  <rect
+     x="277.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3766" />
+  <rect
+     x="288.53201"
+     y="161.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3768" />
+  <rect
+     x="310.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3770" />
+  <rect
+     x="321.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3772" />
+  <rect
+     x="332.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3774" />
+  <rect
+     x="343.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3776" />
+  <rect
+     x="354.53201"
+     y="161.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3778" />
+  <rect
+     x="376.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3780" />
+  <rect
+     x="387.53201"
+     y="161.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3782" />
+  <rect
+     x="409.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3784" />
+  <rect
+     x="420.53201"
+     y="161.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3786" />
+  <rect
+     x="442.53201"
+     y="161.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3788" />
+  <text
+     x="123.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3790">t</text>
+  <text
+     x="134.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3794">a</text>
+  <text
+     x="145.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3798">t</text>
+  <text
+     x="156.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3802">c</text>
+  <text
+     x="167.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3806">a</text>
+  <text
+     x="178.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3810">t</text>
+  <text
+     x="189.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3814">t</text>
+  <text
+     x="200.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3818">a</text>
+  <text
+     x="211.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3822">t</text>
+  <text
+     x="222.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3826">t</text>
+  <text
+     x="233.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3830">a</text>
+  <text
+     x="244.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3834">g</text>
+  <text
+     x="255.532"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3838">c</text>
+  <text
+     x="266.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3842">t</text>
+  <text
+     x="277.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3846">a</text>
+  <text
+     x="288.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3850">g</text>
+  <text
+     x="299.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3854">g</text>
+  <text
+     x="310.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3858">t</text>
+  <text
+     x="321.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3862">a</text>
+  <text
+     x="332.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3866">t</text>
+  <text
+     x="343.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3870">a</text>
+  <text
+     x="354.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3874">t</text>
+  <text
+     x="365.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3878">t</text>
+  <text
+     x="376.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3882">a</text>
+  <text
+     x="387.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3886">t</text>
+  <text
+     x="398.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3890">t</text>
+  <text
+     x="409.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3894">a</text>
+  <text
+     x="420.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3898">t</text>
+  <text
+     x="431.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3902">t</text>
+  <text
+     x="442.53201"
+     y="180.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3906">a</text>
+  <rect
+     x="123.532"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3910" />
+  <rect
+     x="134.532"
+     y="184.62267"
+     width="33"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3912" />
+  <rect
+     x="167.532"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3914" />
+  <rect
+     x="178.532"
+     y="184.62267"
+     width="33"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3916" />
+  <rect
+     x="211.532"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3918" />
+  <rect
+     x="222.532"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3920" />
+  <rect
+     x="233.532"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3922" />
+  <rect
+     x="244.532"
+     y="184.62267"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3924" />
+  <rect
+     x="277.53201"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3926" />
+  <rect
+     x="288.53201"
+     y="184.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect3928" />
+  <rect
+     x="310.53201"
+     y="184.62267"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3930" />
+  <rect
+     x="343.53201"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3932" />
+  <rect
+     x="354.53201"
+     y="184.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3934" />
+  <rect
+     x="376.53201"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3936" />
+  <rect
+     x="387.53201"
+     y="184.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3938" />
+  <rect
+     x="409.53201"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect3940" />
+  <rect
+     x="420.53201"
+     y="184.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect3942" />
+  <rect
+     x="442.53201"
+     y="184.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect3944" />
+  <text
+     x="123.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3946">t</text>
+  <text
+     x="134.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3950">a</text>
+  <text
+     x="145.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3954">a</text>
+  <text
+     x="156.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3958">a</text>
+  <text
+     x="167.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3962">t</text>
+  <text
+     x="178.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3966">a</text>
+  <text
+     x="189.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3970">a</text>
+  <text
+     x="200.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3974">a</text>
+  <text
+     x="211.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3978">t</text>
+  <text
+     x="222.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3982">a</text>
+  <text
+     x="233.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3986">c</text>
+  <text
+     x="244.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3990">t</text>
+  <text
+     x="255.532"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3994">t</text>
+  <text
+     x="266.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text3998">t</text>
+  <text
+     x="277.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4002">a</text>
+  <text
+     x="288.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4006">g</text>
+  <text
+     x="299.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4010">g</text>
+  <text
+     x="310.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4014">t</text>
+  <text
+     x="321.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4018">t</text>
+  <text
+     x="332.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4022">t</text>
+  <text
+     x="343.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4026">a</text>
+  <text
+     x="354.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4030">t</text>
+  <text
+     x="365.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4034">t</text>
+  <text
+     x="376.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4038">a</text>
+  <text
+     x="387.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4042">t</text>
+  <text
+     x="398.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4046">t</text>
+  <text
+     x="409.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4050">a</text>
+  <text
+     x="420.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4054">t</text>
+  <text
+     x="431.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4058">t</text>
+  <text
+     x="442.53201"
+     y="203.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4062">c</text>
+  <rect
+     x="123.532"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4066" />
+  <rect
+     x="134.532"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4068" />
+  <rect
+     x="145.532"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4070" />
+  <rect
+     x="156.532"
+     y="207.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4072" />
+  <rect
+     x="178.532"
+     y="207.62267"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4074" />
+  <rect
+     x="211.532"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4076" />
+  <rect
+     x="222.532"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4078" />
+  <rect
+     x="233.532"
+     y="207.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4080" />
+  <rect
+     x="255.532"
+     y="207.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4082" />
+  <rect
+     x="277.53201"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4084" />
+  <rect
+     x="288.53201"
+     y="207.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4086" />
+  <rect
+     x="310.53201"
+     y="207.62267"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4088" />
+  <rect
+     x="343.53201"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4090" />
+  <rect
+     x="354.53201"
+     y="207.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4092" />
+  <rect
+     x="376.53201"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4094" />
+  <rect
+     x="387.53201"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4096" />
+  <rect
+     x="398.53201"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4098" />
+  <rect
+     x="409.53201"
+     y="207.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4100" />
+  <rect
+     x="431.53201"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4102" />
+  <rect
+     x="442.53201"
+     y="207.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4104" />
+  <text
+     x="123.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4106">c</text>
+  <text
+     x="134.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4110">t</text>
+  <text
+     x="145.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4114">c</text>
+  <text
+     x="156.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4118">a</text>
+  <text
+     x="167.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4122">a</text>
+  <text
+     x="178.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4126">t</text>
+  <text
+     x="189.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4130">t</text>
+  <text
+     x="200.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4134">t</text>
+  <text
+     x="211.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4138">a</text>
+  <text
+     x="222.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4142">t</text>
+  <text
+     x="233.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4146">a</text>
+  <text
+     x="244.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4150">a</text>
+  <text
+     x="255.532"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4154">t</text>
+  <text
+     x="266.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4158">t</text>
+  <text
+     x="277.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4162">a</text>
+  <text
+     x="288.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4166">g</text>
+  <text
+     x="299.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4170">g</text>
+  <text
+     x="310.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4174">t</text>
+  <text
+     x="321.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4178">t</text>
+  <text
+     x="332.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4182">t</text>
+  <text
+     x="343.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4186">c</text>
+  <text
+     x="354.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4190">a</text>
+  <text
+     x="365.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4194">a</text>
+  <text
+     x="376.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4198">t</text>
+  <text
+     x="387.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4202">g</text>
+  <text
+     x="398.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4206">t</text>
+  <text
+     x="409.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4210">a</text>
+  <text
+     x="420.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4214">a</text>
+  <text
+     x="431.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4218">t</text>
+  <text
+     x="442.53201"
+     y="226.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4222">g</text>
+  <rect
+     x="123.532"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4226" />
+  <rect
+     x="134.532"
+     y="230.62267"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4228" />
+  <rect
+     x="167.532"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4230" />
+  <rect
+     x="178.532"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4232" />
+  <rect
+     x="189.532"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4234" />
+  <rect
+     x="200.532"
+     y="230.62267"
+     width="33"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4236" />
+  <rect
+     x="233.532"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4238" />
+  <rect
+     x="244.532"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4240" />
+  <rect
+     x="255.532"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4242" />
+  <rect
+     x="266.53201"
+     y="230.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4244" />
+  <rect
+     x="288.53201"
+     y="230.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4246" />
+  <rect
+     x="310.53201"
+     y="230.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4248" />
+  <rect
+     x="332.53201"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4250" />
+  <rect
+     x="343.53201"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4252" />
+  <rect
+     x="354.53201"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4254" />
+  <rect
+     x="365.53201"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4256" />
+  <rect
+     x="376.53201"
+     y="230.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4258" />
+  <rect
+     x="398.53201"
+     y="230.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4260" />
+  <rect
+     x="420.53201"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4262" />
+  <rect
+     x="431.53201"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4264" />
+  <rect
+     x="442.53201"
+     y="230.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4266" />
+  <text
+     x="123.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4268">a</text>
+  <text
+     x="134.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4272">t</text>
+  <text
+     x="145.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4276">t</text>
+  <text
+     x="156.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4280">t</text>
+  <text
+     x="167.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4284">a</text>
+  <text
+     x="178.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4288">t</text>
+  <text
+     x="189.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4292">g</text>
+  <text
+     x="200.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4296">a</text>
+  <text
+     x="211.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4300">a</text>
+  <text
+     x="222.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4304">a</text>
+  <text
+     x="233.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4308">t</text>
+  <text
+     x="244.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4312">a</text>
+  <text
+     x="255.532"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4316">t</text>
+  <text
+     x="266.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4320">a</text>
+  <text
+     x="277.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4324">a</text>
+  <text
+     x="288.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4328">g</text>
+  <text
+     x="299.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4332">g</text>
+  <text
+     x="310.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4336">t</text>
+  <text
+     x="321.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4340">t</text>
+  <text
+     x="332.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4344">a</text>
+  <text
+     x="343.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4348">t</text>
+  <text
+     x="354.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4352">a</text>
+  <text
+     x="365.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4356">t</text>
+  <text
+     x="376.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4360">a</text>
+  <text
+     x="387.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4364">a</text>
+  <text
+     x="398.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4368">t</text>
+  <text
+     x="409.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4372">t</text>
+  <text
+     x="420.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4376">a</text>
+  <text
+     x="431.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4380">t</text>
+  <text
+     x="442.53201"
+     y="249.62267"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4384">g</text>
+  <rect
+     x="123.532"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4388" />
+  <rect
+     x="134.532"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4390" />
+  <rect
+     x="145.532"
+     y="253.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4392" />
+  <rect
+     x="167.532"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4394" />
+  <rect
+     x="178.532"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4396" />
+  <rect
+     x="189.532"
+     y="253.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4398" />
+  <rect
+     x="211.532"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4400" />
+  <rect
+     x="222.532"
+     y="253.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4402" />
+  <rect
+     x="244.532"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4404" />
+  <rect
+     x="255.532"
+     y="253.62267"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4406" />
+  <rect
+     x="277.53201"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4408" />
+  <rect
+     x="288.53201"
+     y="253.62267"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4410" />
+  <rect
+     x="310.53201"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4412" />
+  <rect
+     x="321.53201"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4414" />
+  <rect
+     x="332.53201"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4416" />
+  <rect
+     x="343.53201"
+     y="253.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4418" />
+  <rect
+     x="365.53201"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4420" />
+  <rect
+     x="376.53201"
+     y="253.62267"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4422" />
+  <rect
+     x="398.53201"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4424" />
+  <rect
+     x="409.53201"
+     y="253.62267"
+     width="33"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4426" />
+  <rect
+     x="442.53201"
+     y="253.62267"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4428" />
+  <text
+     x="123.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4430">a</text>
+  <text
+     x="134.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4434">c</text>
+  <text
+     x="145.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4438">a</text>
+  <text
+     x="156.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4442">a</text>
+  <text
+     x="167.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4446">g</text>
+  <text
+     x="178.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4450">t</text>
+  <text
+     x="189.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4454">a</text>
+  <text
+     x="200.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4458">a</text>
+  <text
+     x="211.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4462">t</text>
+  <text
+     x="222.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4466">a</text>
+  <text
+     x="233.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4470">a</text>
+  <text
+     x="244.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4474">c</text>
+  <text
+     x="255.532"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4478">t</text>
+  <text
+     x="266.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4482">t</text>
+  <text
+     x="277.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4486">a</text>
+  <text
+     x="288.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4490">g</text>
+  <text
+     x="299.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4494">g</text>
+  <text
+     x="310.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4498">c</text>
+  <text
+     x="321.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4502">a</text>
+  <text
+     x="332.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4506">t</text>
+  <text
+     x="343.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4510">a</text>
+  <text
+     x="354.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4514">a</text>
+  <text
+     x="365.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4518">t</text>
+  <text
+     x="376.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4522">a</text>
+  <text
+     x="387.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4526">a</text>
+  <text
+     x="398.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4530">t</text>
+  <text
+     x="409.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4534">a</text>
+  <text
+     x="420.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4538">a</text>
+  <text
+     x="431.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4542">a</text>
+  <text
+     x="442.53201"
+     y="272.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4546">c</text>
+  <rect
+     x="123.532"
+     y="276.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4550" />
+  <rect
+     x="145.532"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4552" />
+  <rect
+     x="156.532"
+     y="276.62265"
+     width="33"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4554" />
+  <rect
+     x="189.532"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4556" />
+  <rect
+     x="200.532"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4558" />
+  <rect
+     x="211.532"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4560" />
+  <rect
+     x="222.532"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4562" />
+  <rect
+     x="233.532"
+     y="276.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4564" />
+  <rect
+     x="255.532"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4566" />
+  <rect
+     x="266.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4568" />
+  <rect
+     x="277.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4570" />
+  <rect
+     x="288.53201"
+     y="276.62265"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4572" />
+  <rect
+     x="310.53201"
+     y="276.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4574" />
+  <rect
+     x="332.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4576" />
+  <rect
+     x="343.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4578" />
+  <rect
+     x="354.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4580" />
+  <rect
+     x="365.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4582" />
+  <rect
+     x="376.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4584" />
+  <rect
+     x="387.53201"
+     y="276.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4586" />
+  <rect
+     x="409.53201"
+     y="276.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4588" />
+  <rect
+     x="431.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4590" />
+  <rect
+     x="442.53201"
+     y="276.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4592" />
+  <text
+     x="123.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4594">a</text>
+  <text
+     x="134.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4598">a</text>
+  <text
+     x="145.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4602">g</text>
+  <text
+     x="156.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4606">a</text>
+  <text
+     x="167.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4610">a</text>
+  <text
+     x="178.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4614">a</text>
+  <text
+     x="189.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4618">t</text>
+  <text
+     x="200.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4622">a</text>
+  <text
+     x="211.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4626">t</text>
+  <text
+     x="222.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4630">a</text>
+  <text
+     x="233.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4634">t</text>
+  <text
+     x="244.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4638">t</text>
+  <text
+     x="255.532"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4642">a</text>
+  <text
+     x="266.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4646">t</text>
+  <text
+     x="277.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4650">a</text>
+  <text
+     x="288.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4654">g</text>
+  <text
+     x="299.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4658">g</text>
+  <text
+     x="310.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4662">t</text>
+  <text
+     x="321.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4666">t</text>
+  <text
+     x="332.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4670">a</text>
+  <text
+     x="343.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4674">t</text>
+  <text
+     x="354.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4678">a</text>
+  <text
+     x="365.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4682">t</text>
+  <text
+     x="376.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4686">a</text>
+  <text
+     x="387.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4690">t</text>
+  <text
+     x="398.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4694">t</text>
+  <text
+     x="409.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4698">a</text>
+  <text
+     x="420.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4702">a</text>
+  <text
+     x="431.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4706">g</text>
+  <text
+     x="442.53201"
+     y="295.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4710">a</text>
+  <rect
+     x="123.532"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4714" />
+  <rect
+     x="145.532"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4716" />
+  <rect
+     x="167.532"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4718" />
+  <rect
+     x="178.532"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4720" />
+  <rect
+     x="189.532"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4722" />
+  <rect
+     x="200.532"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4724" />
+  <rect
+     x="211.532"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4726" />
+  <rect
+     x="222.532"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4728" />
+  <rect
+     x="233.532"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4730" />
+  <rect
+     x="255.532"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4732" />
+  <rect
+     x="277.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4734" />
+  <rect
+     x="288.53201"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4736" />
+  <rect
+     x="310.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4738" />
+  <rect
+     x="321.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4740" />
+  <rect
+     x="332.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4742" />
+  <rect
+     x="343.53201"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4744" />
+  <rect
+     x="365.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4746" />
+  <rect
+     x="376.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4748" />
+  <rect
+     x="387.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4750" />
+  <rect
+     x="398.53201"
+     y="299.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4752" />
+  <rect
+     x="409.53201"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4754" />
+  <rect
+     x="431.53201"
+     y="299.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4756" />
+  <text
+     x="123.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4758">a</text>
+  <text
+     x="134.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4762">a</text>
+  <text
+     x="145.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4766">t</text>
+  <text
+     x="156.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4770">t</text>
+  <text
+     x="167.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4774">a</text>
+  <text
+     x="178.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4778">t</text>
+  <text
+     x="189.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4782">c</text>
+  <text
+     x="200.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4786">a</text>
+  <text
+     x="211.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4790">t</text>
+  <text
+     x="222.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4794">a</text>
+  <text
+     x="233.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4798">t</text>
+  <text
+     x="244.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4802">t</text>
+  <text
+     x="255.532"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4806">g</text>
+  <text
+     x="266.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4810">g</text>
+  <text
+     x="277.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4814">a</text>
+  <text
+     x="288.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4818">g</text>
+  <text
+     x="299.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4822">g</text>
+  <text
+     x="310.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4826">t</text>
+  <text
+     x="321.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4830">a</text>
+  <text
+     x="332.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4834">t</text>
+  <text
+     x="343.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4838">a</text>
+  <text
+     x="354.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4842">a</text>
+  <text
+     x="365.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4846">c</text>
+  <text
+     x="376.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4850">a</text>
+  <text
+     x="387.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4854">g</text>
+  <text
+     x="398.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4858">t</text>
+  <text
+     x="409.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4862">a</text>
+  <text
+     x="420.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4866">a</text>
+  <text
+     x="431.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4870">t</text>
+  <text
+     x="442.53201"
+     y="318.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4874">t</text>
+  <rect
+     x="123.532"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4878" />
+  <rect
+     x="134.532"
+     y="322.62265"
+     width="33"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4880" />
+  <rect
+     x="167.532"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4882" />
+  <rect
+     x="178.532"
+     y="322.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4884" />
+  <rect
+     x="200.532"
+     y="322.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4886" />
+  <rect
+     x="222.532"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4888" />
+  <rect
+     x="233.532"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4890" />
+  <rect
+     x="244.532"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4892" />
+  <rect
+     x="255.532"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4894" />
+  <rect
+     x="266.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4896" />
+  <rect
+     x="277.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4898" />
+  <rect
+     x="288.53201"
+     y="322.62265"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect4900" />
+  <rect
+     x="310.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4902" />
+  <rect
+     x="321.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4904" />
+  <rect
+     x="332.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4906" />
+  <rect
+     x="343.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4908" />
+  <rect
+     x="354.53201"
+     y="322.62265"
+     width="22"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect4910" />
+  <rect
+     x="376.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4912" />
+  <rect
+     x="387.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4914" />
+  <rect
+     x="398.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4916" />
+  <rect
+     x="409.53201"
+     y="322.62265"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect4918" />
+  <rect
+     x="442.53201"
+     y="322.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect4920" />
+  <text
+     x="123.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4922">t</text>
+  <text
+     x="134.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4926">a</text>
+  <text
+     x="145.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4930">a</text>
+  <text
+     x="156.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4934">a</text>
+  <text
+     x="167.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4938">c</text>
+  <text
+     x="178.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4942">t</text>
+  <text
+     x="189.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4946">t</text>
+  <text
+     x="200.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4950">a</text>
+  <text
+     x="211.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4954">a</text>
+  <text
+     x="222.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4958">t</text>
+  <text
+     x="233.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4962">a</text>
+  <text
+     x="244.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4966">t</text>
+  <text
+     x="255.532"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4970">c</text>
+  <text
+     x="266.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4974">t</text>
+  <text
+     x="277.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4978">a</text>
+  <text
+     x="288.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4982">g</text>
+  <text
+     x="299.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4986">g</text>
+  <text
+     x="310.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4990">c</text>
+  <text
+     x="321.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4994">a</text>
+  <text
+     x="332.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text4998">t</text>
+  <text
+     x="343.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5002">a</text>
+  <text
+     x="354.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5006">c</text>
+  <text
+     x="365.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5010">c</text>
+  <text
+     x="376.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5014">a</text>
+  <text
+     x="387.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5018">t</text>
+  <text
+     x="398.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5022">a</text>
+  <text
+     x="409.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5026">t</text>
+  <text
+     x="420.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5030">t</text>
+  <text
+     x="431.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5034">t</text>
+  <text
+     x="442.53201"
+     y="341.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5038">a</text>
+  <rect
+     x="123.532"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5042" />
+  <rect
+     x="134.532"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5044" />
+  <rect
+     x="145.532"
+     y="345.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5046" />
+  <rect
+     x="167.532"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5048" />
+  <rect
+     x="178.532"
+     y="345.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5050" />
+  <rect
+     x="200.532"
+     y="345.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5052" />
+  <rect
+     x="222.532"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5054" />
+  <rect
+     x="233.532"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5056" />
+  <rect
+     x="244.532"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5058" />
+  <rect
+     x="255.532"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#ffb340;fill-opacity:1"
+     id="rect5060" />
+  <rect
+     x="266.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5062" />
+  <rect
+     x="277.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5064" />
+  <rect
+     x="288.53201"
+     y="345.62265"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect5066" />
+  <rect
+     x="310.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5068" />
+  <rect
+     x="321.53201"
+     y="345.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5070" />
+  <rect
+     x="343.53201"
+     y="345.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5072" />
+  <rect
+     x="365.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5074" />
+  <rect
+     x="376.53201"
+     y="345.62265"
+     width="22"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5076" />
+  <rect
+     x="398.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5078" />
+  <rect
+     x="409.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5080" />
+  <rect
+     x="420.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5082" />
+  <rect
+     x="431.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5084" />
+  <rect
+     x="442.53201"
+     y="345.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5086" />
+  <text
+     x="123.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5088">t</text>
+  <text
+     x="134.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5092">a</text>
+  <text
+     x="145.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5096">t</text>
+  <text
+     x="156.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5100">t</text>
+  <text
+     x="167.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5104">a</text>
+  <text
+     x="178.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5108">t</text>
+  <text
+     x="189.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5112">t</text>
+  <text
+     x="200.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5116">a</text>
+  <text
+     x="211.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5120">a</text>
+  <text
+     x="222.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5124">t</text>
+  <text
+     x="233.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5128">a</text>
+  <text
+     x="244.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5132">t</text>
+  <text
+     x="255.532"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5136">c</text>
+  <text
+     x="266.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5140">t</text>
+  <text
+     x="277.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5144">a</text>
+  <text
+     x="288.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5148">g</text>
+  <text
+     x="299.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5152">g</text>
+  <text
+     x="310.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5156">t</text>
+  <text
+     x="321.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5160">a</text>
+  <text
+     x="332.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5164">a</text>
+  <text
+     x="343.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5168">t</text>
+  <text
+     x="354.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5172">t</text>
+  <text
+     x="365.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5176">a</text>
+  <text
+     x="376.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5180">t</text>
+  <text
+     x="387.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5184">t</text>
+  <text
+     x="398.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5188">a</text>
+  <text
+     x="409.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5192">t</text>
+  <text
+     x="420.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5196">a</text>
+  <text
+     x="431.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5200">t</text>
+  <text
+     x="442.53201"
+     y="364.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5204">a</text>
+  <rect
+     x="123.532"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5208" />
+  <rect
+     x="134.532"
+     y="368.62265"
+     width="44"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5210" />
+  <rect
+     x="178.532"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect5212" />
+  <rect
+     x="189.532"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5214" />
+  <rect
+     x="200.532"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5216" />
+  <rect
+     x="211.532"
+     y="368.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5218" />
+  <rect
+     x="233.532"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5220" />
+  <rect
+     x="244.532"
+     y="368.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5222" />
+  <rect
+     x="266.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5224" />
+  <rect
+     x="277.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5226" />
+  <rect
+     x="288.53201"
+     y="368.62265"
+     width="22"
+     height="23"
+     style="fill:#eb413c;fill-opacity:1"
+     id="rect5228" />
+  <rect
+     x="310.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5230" />
+  <rect
+     x="321.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5232" />
+  <rect
+     x="332.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5234" />
+  <rect
+     x="343.53201"
+     y="368.62265"
+     width="22"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5236" />
+  <rect
+     x="365.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5238" />
+  <rect
+     x="376.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5240" />
+  <rect
+     x="387.53201"
+     y="368.62265"
+     width="33"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5242" />
+  <rect
+     x="420.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5244" />
+  <rect
+     x="431.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#3c88ee;fill-opacity:1"
+     id="rect5246" />
+  <rect
+     x="442.53201"
+     y="368.62265"
+     width="11"
+     height="23"
+     style="fill:#64f73f;fill-opacity:1"
+     id="rect5248" />
+  <text
+     x="123.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5250">t</text>
+  <text
+     x="134.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5254">a</text>
+  <text
+     x="145.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5258">a</text>
+  <text
+     x="156.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5262">a</text>
+  <text
+     x="167.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5266">a</text>
+  <text
+     x="178.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5270">g</text>
+  <text
+     x="189.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5274">a</text>
+  <text
+     x="200.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5278">t</text>
+  <text
+     x="211.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5282">a</text>
+  <text
+     x="222.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5286">a</text>
+  <text
+     x="233.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5290">t</text>
+  <text
+     x="244.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5294">a</text>
+  <text
+     x="255.532"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5298">a</text>
+  <text
+     x="266.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5302">t</text>
+  <text
+     x="277.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5306">a</text>
+  <text
+     x="288.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5310">g</text>
+  <text
+     x="299.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5314">g</text>
+  <text
+     x="310.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5318">t</text>
+  <text
+     x="321.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5322">a</text>
+  <text
+     x="332.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5326">t</text>
+  <text
+     x="343.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5330">a</text>
+  <text
+     x="354.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5334">a</text>
+  <text
+     x="365.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5338">t</text>
+  <text
+     x="376.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5342">a</text>
+  <text
+     x="387.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5346">t</text>
+  <text
+     x="398.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5350">t</text>
+  <text
+     x="409.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5354">t</text>
+  <text
+     x="420.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5358">a</text>
+  <text
+     x="431.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5362">t</text>
+  <text
+     x="442.53201"
+     y="387.62265"
+     style="font-weight:bold;font-size:18px;font-family:'Source Code Pro';fill:#000000;fill-opacity:1"
+     id="text5366">a</text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 267.53195,35.622664 c 0,-10 21.50005,0 26.50005,-5 5,5 26.50005,-5 26.50005,5"
+     id="path10001"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 322.53201,35.622664 c 0,-10 59.99999,0 64.99999,-5 5,5 65.00001,-5 64.99999,5"
+     id="path10007"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 124.53201,35.622669 c 0,-10 65.49999,0 70.49999,-5 5,5 70.49999,-5 70.49999,5"
+     id="path10013"
+     sodipodi:nodetypes="ccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="158.37381"
+     y="15.142697"
+     id="text10037"><tspan
+       sodipodi:role="line"
+       id="tspan10035"
+       x="158.37381"
+       y="15.142697"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold'">AT-rich1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="348.58716"
+     y="15.142697"
+     id="text10041"><tspan
+       sodipodi:role="line"
+       id="tspan10039"
+       x="348.58716"
+       y="15.142697"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold'">AT-rich2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="270.36124"
+     y="15.142697"
+     id="text10045"><tspan
+       sodipodi:role="line"
+       id="tspan10043"
+       x="270.36124"
+       y="15.142697"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold'">fsGly</tspan></text>
+</svg>

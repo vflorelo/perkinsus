@@ -1,0 +1,65 @@
+Pmar_mt	Geneious	ORF	1370	2767	.	+	.	Name=Perkinsus_olseni_cox1_ORF
+Pmar_mt	Geneious	ORF	27008	27927	.	+	.	Name=Perkinsus_olseni_cob_ORF
+Pmar_mt	Geneious	ORF	14990	15688	.	+	.	Name=Perkinsus_olseni_cox3_ORF
+Pmar_mt	Geneious	motif	1608	1613	.	+	.	Name=framshift_2_CCCCTA
+Pmar_mt	Geneious	motif	2664	2669	.	+	.	Name=frameshift_10_CCCCTA
+Pmar_mt	Geneious	motif	1588	1592	.	+	.	Name=frameshift_1_TAGGT
+Pmar_mt	Geneious	motif	1747	1751	.	+	.	Name=frameshift_3_TAGGC
+Pmar_mt	Geneious	motif	1826	1830	.	+	.	Name=frameshift_4_TAGGC
+Pmar_mt	Geneious	motif	2446	2450	.	+	.	Name=frameshift_6_TAGGT
+Pmar_mt	Geneious	motif	2403	2407	.	+	.	Name=frameshift_5_TAGGT
+Pmar_mt	Geneious	motif	2525	2529	.	+	.	Name=frameshift_7_TAGGT
+Pmar_mt	Geneious	motif	2592	2596	.	+	.	Name=frameshift_8_TAGGT
+Pmar_mt	Geneious	motif	2647	2651	.	+	.	Name=frameshift_9_TAGGT
+Pmar_mt	Geneious	motif	27132	27136	.	.	.	Name=frameshift_2_TAGGC
+Pmar_mt	Geneious	motif	27211	27215	.	.	.	Name=frameshift_3_TAGGT
+Pmar_mt	Geneious	motif	27388	27392	.	.	.	Name=frameshift_4_TAGGT
+Pmar_mt	Geneious	motif	27444	27448	.	.	.	Name=frameshift_5_TAGGC
+Pmar_mt	Geneious	motif	27475	27479	.	.	.	Name=frameshift_6_TAGGT
+Pmar_mt	Geneious	motif	27668	27672	.	.	.	Name=frameshift_7_TAGGT
+Pmar_mt	Geneious	motif	27088	27092	.	.	.	Name=frameshift_1_frameshift_1_AAGGT
+Pmar_mt	Geneious	motif	2310	2310	.	+	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	2052	2052	.	+	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	2205	2205	.	+	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	1754	1754	.	+	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	27082	27082	.	.	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	27329	27329	.	.	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	27795	27795	.	.	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	27810	27810	.	.	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	15253	15253	.	.	.	Name=necessary_edit_A_to_G
+Pmar_mt	Geneious	motif	15136	15136	.	.	.	Name=necessary_edit_A_to_G;created by=User
+Pmar_mt	EuPathDB	rRNA	18151	18327	.	+	.	Name=mal_rna_14:rRNA;ID=mal_rna_14:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11149;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - mal_rna_14:rRNA";Transferred Similarity=51.11%
+Pmar_mt	EuPathDB	rRNA	28927	29042	.	-	.	Name=malmito_rna_LSUF:rRNA;ID=malmito_rna_LSUF:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11161;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_LSUF:rRNA (reversed)";Transferred Similarity=58.97%
+Pmar_mt	EuPathDB	rRNA	10059	10172	.	+	.	Name=malmito_SSUB:rRNA;ID=malmito_SSUB:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11170;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_SSUB:rRNA";Transferred Similarity=50.86%
+Pmar_mt	EuPathDB	rRNA	15962	16069	.	+	.	Name=malmito_rna_LSUG:rRNA;ID=malmito_rna_LSUG:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11182;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_LSUG:rRNA";Transferred Similarity=54.63%
+Pmar_mt	EuPathDB	rRNA	31275	31373	.	+	.	Name=malmito_rna_10:rRNA;ID=malmito_rna_10:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11087;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_10:rRNA";Transferred Similarity=56.44%
+Pmar_mt	EuPathDB	rRNA	9651	9738	.	-	.	Name=malmito_rna_RNA5:rRNA;ID=malmito_rna_RNA5:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11164;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA5:rRNA (reversed)";Transferred Similarity=57.30%
+Pmar_mt	EuPathDB	rRNA	13686	13773	.	+	.	Name=malmito_rna_1:rRNA;ID=malmito_rna_1:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11173;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_1:rRNA";Transferred Similarity=57.78%
+Pmar_mt	EuPathDB	rRNA	19367	19449	.	-	.	Name=malmito_rna_RNA7:rRNA;ID=malmito_rna_RNA7:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11125;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA7:rRNA (reversed)";Transferred Similarity=52.38%
+Pmar_mt	EuPathDB	rRNA	24819	24899	.	+	.	Name=mal_rna_10:rRNA;ID=mal_rna_10:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11110;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - mal_rna_10:rRNA";Transferred Similarity=51.81%
+Pmar_mt	Geneious	rRNA	805	882	.	+	.	Name=Hem_LSUD_rRNA;gene="lsu rRNA";product="large subunit ribosomal RNA";NCBI Feature Key=rRNA;Transferred From=HE610725_LSUD;Transferred Similarity=53.75%;modified by=sebastiangornik
+Pmar_mt	EuPathDB	rRNA	9442	9514	.	+	.	Name=malmito_rna_RNA4:rRNA;ID=malmito_rna_RNA4:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11119;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA4:rRNA";Transferred Similarity=62.67%
+Pmar_mt	EuPathDB	rRNA	16433	16500	.	+	.	Name=mal_rna_9:rRNA;ID=mal_rna_9:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11081;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - mal_rna_9:rRNA";Transferred Similarity=52.94%
+Pmar_mt	EuPathDB	rRNA	29288	29355	.	+	.	Name=mal_rna_15:rRNA;ID=mal_rna_15:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11146;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - mal_rna_15:rRNA";Transferred Similarity=51.47%
+Pmar_mt	EuPathDB	rRNA	992	1055	.	-	.	Name=malmito_rna_RNA12:rRNA;ID=malmito_rna_RNA12:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11188;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA12:rRNA (reversed)";Transferred Similarity=56.25%
+Pmar_mt	EuPathDB	rRNA	38547	38607	.	+	.	Name=malmito_rna_SSUF:rRNA;ID=malmito_rna_SSUF:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11069;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_SSUF:rRNA";Transferred Similarity=52.46%
+Pmar_mt	EuPathDB	rRNA	5226	5283	.	+	.	Name=malmito_rna_RNA6:rRNA;ID=malmito_rna_RNA6:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11167;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA6:rRNA";Transferred Similarity=55.93%
+Pmar_mt	EuPathDB	rRNA	36264	36320	.	-	.	Name=malmito_rna_RNA11:rRNA;ID=malmito_rna_RNA11:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11131;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA11:rRNA (reversed)";Transferred Similarity=57.63%
+Pmar_mt	EuPathDB	rRNA	20219	20272	.	-	.	Name=malmito_rna_27.1;ID=malmito_rna_27.1;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11140;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_27.1 (reversed)";Transferred Similarity=61.82%
+Pmar_mt	EuPathDB	rRNA	35221	35272	.	+	.	Name=malmito_rna_9:rRNA;ID=malmito_rna_9:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11113;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_9:rRNA";Transferred Similarity=51.85%
+Pmar_mt	EuPathDB	rRNA	34442	34486	.	-	.	Name=malmito_rna_26.1;ID=malmito_rna_26.1;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11158;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_26.1 (reversed)";Transferred Similarity=64.44%
+Pmar_mt	EuPathDB	rRNA	2063	2106	.	-	.	Name=malmito_rna_17:rRNA;ID=malmito_rna_17:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11100;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_17:rRNA (reversed)";Transferred Similarity=61.36%
+Pmar_mt	EuPathDB	rRNA	8205	8247	.	+	.	Name=mal_rna_8:rRNA;ID=mal_rna_8:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11097;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - mal_rna_8:rRNA";Transferred Similarity=58.14%
+Pmar_mt	EuPathDB	rRNA	23527	23567	.	+	.	Name=malmito_rna_RNA14:rRNA;ID=malmito_rna_RNA14:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11060;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA14:rRNA";Transferred Similarity=60.98%
+Pmar_mt	EuPathDB	rRNA	14843	14882	.	-	.	Name=malmito_rna_RNA22:rRNA;ID=malmito_rna_RNA22:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11084;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA22:rRNA (reversed)";Transferred Similarity=62.50%
+Pmar_mt	EuPathDB	rRNA	18769	18806	.	-	.	Name=malmito_rna_20:rRNA;ID=malmito_rna_20:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11176;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_20:rRNA (reversed)";Transferred Similarity=55.26%
+Pmar_mt	EuPathDB	rRNA	39445	39481	.	-	.	Name=malmito_rna_24.1;ID=malmito_rna_24.1;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11134;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_24.1 (reversed)";Transferred Similarity=59.46%
+Pmar_mt	EuPathDB	rRNA	2233	2267	.	+	.	Name=malmito_rna_23.1;ID=malmito_rna_23.1;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11078;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_23.1";Transferred Similarity=65.71%
+Pmar_mt	EuPathDB	rRNA	26774	26805	.	+	.	Name=mal_mito_RNA19:rRNA;ID=mal_mito_RNA19:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11143;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - mal_mito_RNA19:rRNA";Transferred Similarity=62.50%
+Pmar_mt	EuPathDB	rRNA	5717	5747	.	+	.	Name=malmito_rna_15:rRNA;ID=malmito_rna_15:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11155;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_15:rRNA";Transferred Similarity=51.61%
+Pmar_mt	EuPathDB	rRNA	24739	24769	.	+	.	Name=malmito_rna_16:rRNA;ID=malmito_rna_16:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11122;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_16:rRNA";Transferred Similarity=64.52%
+Pmar_mt	EuPathDB	rRNA	25277	25307	.	-	.	Name=mal_rna_12:rRNA;ID=mal_rna_12:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11137;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - mal_rna_12:rRNA (reversed)";Transferred Similarity=69.70%
+Pmar_mt	EuPathDB	rRNA	8229	8254	.	-	.	Name=malmito_rna_RNA18:rRNA;ID=malmito_rna_RNA18:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11128;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_RNA18:rRNA (reversed)";Transferred Similarity=65.38%
+Pmar_mt	EuPathDB	rRNA	26758	26779	.	+	.	Name=malmito_rna_LSUC:rRNA;ID=malmito_rna_LSUC:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11185;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_LSUC:rRNA";Transferred Similarity=77.27%
+Pmar_mt	EuPathDB	rRNA	32190	32210	.	-	.	Name=malmito_rna_21:rRNA;ID=malmito_rna_21:rRNA;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11152;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_21:rRNA (reversed)";Transferred Similarity=69.57%
+Pmar_mt	EuPathDB	rRNA	18934	18953	.	+	.	Name=malmito_rna_25.1;ID=malmito_rna_25.1;description="unspecified product";Parent=3/N+fjrXzPdjYe0IGzmSFyDuRIo.1528302547485.11107;modified by=sebastiangornik;Transferred From="Pf_M76611_PER_ref - malmito_rna_25.1";Transferred Similarity=70.00%

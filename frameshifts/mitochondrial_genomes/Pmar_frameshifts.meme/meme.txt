@@ -1,0 +1,255 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.0 (Release date: Wed Nov 25 19:19:29 2020 -0800)
+
+For further information on how to interpret please access http://meme-suite.org.
+To get a copy of the MEME Suite software please access http://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= Pmar_mt.fs.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Pmar_1590                1.0000     30  Pmar_1749                1.0000     30  
+Pmar_1828                1.0000     30  Pmar_2405                1.0000     30  
+Pmar_2448                1.0000     30  Pmar_2527                1.0000     30  
+Pmar_2594                1.0000     30  Pmar_2649                1.0000     30  
+Pmar_27090               1.0000     30  Pmar_27134               1.0000     30  
+Pmar_27213               1.0000     30  Pmar_27415               1.0000     30  
+Pmar_27445               1.0000     30  Pmar_27477               1.0000     30  
+Pmar_27670               1.0000     30  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme Pmar_mt.fs.fasta -oc frameshifts.meme -dna -mod oops -nmotifs 1 
+
+model:  mod=          oops    nmotifs=         1    evt=           inf
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            8    maxw=           30
+nsites: minsites=       15    maxsites=       15    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=             450    N=              15
+sample: seed=            0    hsfrac=          0
+        searchsize=    450    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.402 C 0.0733 G 0.127 T 0.398 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.401 C 0.0749 G 0.128 T 0.396 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF YTAGGTWTAWHAK MEME-1	width =  13  sites =  15  llr = 129  E-value = 2.7e-016
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif YTAGGTWTAWHAK MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  11a:::5275371
+pos.-specific     C  3::::3::1131:
+probability       G  11:aa::1::::3
+matrix            T  49:::75723435
+
+         bits    3.7              
+                 3.4              
+                 3.0    **        
+                 2.6    **        
+Relative         2.2    **        
+Entropy          1.9    **        
+(12.4 bits)      1.5   ***        
+                 1.1   ****       
+                 0.7  *****    *  
+                 0.4 *************
+                 0.0 -------------
+
+Multilevel           TTAGGTATAATAT
+consensus            C    CTATTCTG
+sequence                       A  
+                                  
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YTAGGTWTAWHAK MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                Site   
+-------------             ----- ---------            -------------
+Pmar_27445                   13  5.77e-09 aacttaatat ctaggcataccat attta     
+Pmar_1749                    13  5.28e-07 aatataggta ctaggctgaacat tatat     
+Pmar_2405                    13  7.23e-07 tttataatag gtaggtataacag gtata     
+Pmar_1828                    13  4.28e-06 ttaataatta ttaggcatatcct ctata     
+Pmar_2527                    13  5.09e-06 tcattattag ctaggtatattat tatta     
+Pmar_27415                   13  7.88e-06 ttatcatatt ggaggtataacag taatt     
+Pmar_1590                    13  1.31e-05 attataatgc ctaggtttatatg gtggt     
+Pmar_2448                    13  3.61e-05 atcatagata ttaggtttacatg ataca     
+Pmar_2594                    13  4.56e-05 aataaatact ttaggtttattat tattc     
+Pmar_27134                   13  5.44e-05 aagtaataac ttaggcataataa taaac     
+Pmar_27670                   13  8.10e-05 aaagataata ataggtataatat ttata     
+Pmar_2649                    13  9.77e-05 caatttataa ttaggtttcaatg taatg     
+Pmar_27477                   13  2.86e-04 ttattaatat ctaggtaattatt atata     
+Pmar_27213                   13  4.88e-04 gaaatatatt ataggttatatat taaga     
+Pmar_27090                   13  1.02e-03 ttatgaaata taaggttatataa ttatg     
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YTAGGTWTAWHAK MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Pmar_27445                        5.8e-09  12_[+1]_5
+Pmar_1749                         5.3e-07  12_[+1]_5
+Pmar_2405                         7.2e-07  12_[+1]_5
+Pmar_1828                         4.3e-06  12_[+1]_5
+Pmar_2527                         5.1e-06  12_[+1]_5
+Pmar_27415                        7.9e-06  12_[+1]_5
+Pmar_1590                         1.3e-05  12_[+1]_5
+Pmar_2448                         3.6e-05  12_[+1]_5
+Pmar_2594                         4.6e-05  12_[+1]_5
+Pmar_27134                        5.4e-05  12_[+1]_5
+Pmar_27670                        8.1e-05  12_[+1]_5
+Pmar_2649                         9.8e-05  12_[+1]_5
+Pmar_27477                        0.00029  12_[+1]_5
+Pmar_27213                        0.00049  12_[+1]_5
+Pmar_27090                          0.001  12_[+1]_5
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YTAGGTWTAWHAK MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF YTAGGTWTAWHAK width=13 seqs=15
+Pmar_27445               (   13) CTAGGCATACCAT  1 
+Pmar_1749                (   13) CTAGGCTGAACAT  1 
+Pmar_2405                (   13) GTAGGTATAACAG  1 
+Pmar_1828                (   13) TTAGGCATATCCT  1 
+Pmar_2527                (   13) CTAGGTATATTAT  1 
+Pmar_27415               (   13) GGAGGTATAACAG  1 
+Pmar_1590                (   13) CTAGGTTTATATG  1 
+Pmar_2448                (   13) TTAGGTTTACATG  1 
+Pmar_2594                (   13) TTAGGTTTATTAT  1 
+Pmar_27134               (   13) TTAGGCATAATAA  1 
+Pmar_27670               (   13) ATAGGTATAATAT  1 
+Pmar_2649                (   13) TTAGGTTTCAATG  1 
+Pmar_27477               (   13) CTAGGTAATTATT  1 
+Pmar_27213               (   13) ATAGGTTATATAT  1 
+Pmar_27090               (   13) TAAGGTTATATAA  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YTAGGTWTAWHAK MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 13 n= 270 bayes= 4.08746 E= 2.7e-016 
+  -159    215      6      1 
+  -258  -1055    -94    113 
+   132  -1055  -1055  -1055 
+ -1055  -1055    297  -1055 
+ -1055  -1055    297  -1055 
+ -1055    183  -1055     89 
+    41  -1055  -1055     24 
+  -100  -1055    -94     89 
+    87    -17  -1055    -99 
+    41     83  -1055    -25 
+   -59    215  -1055      1 
+    73    -17  -1055    -57 
+  -159  -1055    138     43 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YTAGGTWTAWHAK MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 13 nsites= 15 E= 2.7e-016 
+ 0.133333  0.333333  0.133333  0.400000 
+ 0.066667  0.000000  0.066667  0.866667 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.000000  0.266667  0.000000  0.733333 
+ 0.533333  0.000000  0.000000  0.466667 
+ 0.200000  0.000000  0.066667  0.733333 
+ 0.733333  0.066667  0.000000  0.200000 
+ 0.533333  0.133333  0.000000  0.333333 
+ 0.266667  0.333333  0.000000  0.400000 
+ 0.666667  0.066667  0.000000  0.266667 
+ 0.133333  0.000000  0.333333  0.533333 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YTAGGTWTAWHAK MEME-1 regular expression
+--------------------------------------------------------------------------------
+[TC]TAGG[TC][AT][TA][AT][AT][TCA][AT][TG]
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.01 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Pmar_1590                        2.35e-04  12_[+1(1.31e-05)]_5
+Pmar_1749                        9.50e-06  12_[+1(5.28e-07)]_5
+Pmar_1828                        7.70e-05  12_[+1(4.28e-06)]_5
+Pmar_2405                        1.30e-05  12_[+1(7.23e-07)]_5
+Pmar_2448                        6.49e-04  12_[+1(3.61e-05)]_5
+Pmar_2527                        9.16e-05  12_[+1(5.09e-06)]_5
+Pmar_2594                        8.21e-04  12_[+1(4.56e-05)]_5
+Pmar_2649                        1.76e-03  12_[+1(9.77e-05)]_5
+Pmar_27090                       1.82e-02  30
+Pmar_27134                       9.80e-04  12_[+1(5.44e-05)]_5
+Pmar_27213                       8.75e-03  30
+Pmar_27415                       1.42e-04  12_[+1(7.88e-06)]_5
+Pmar_27445                       1.04e-07  12_[+1(5.77e-09)]_5
+Pmar_27477                       5.13e-03  30
+Pmar_27670                       1.46e-03  12_[+1(8.10e-05)]_5
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because requested number of motifs (1) found.
+********************************************************************************
+
+CPU: anna
+
+********************************************************************************
